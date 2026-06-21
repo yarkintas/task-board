@@ -56,6 +56,6 @@ src/
 
 ## Teslim Notları
 
-- Canlı demo linki: Netlify deploy tamamlandıktan sonra buraya eklenecek.
+- Canlı demo linki: https://taskboard-application.netlify.app/
 - GitHub repo linki: Public repo oluşturulduktan sonra buraya eklenecek.
 - Ekran görüntüsü: `docs/screenshot.png`
