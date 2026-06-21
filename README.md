@@ -57,5 +57,5 @@ src/
 ## Teslim Notları
 
 - Canlı demo linki: https://taskboard-application.netlify.app/
-- GitHub repo linki: Public repo oluşturulduktan sonra buraya eklenecek.
-- Ekran görüntüsü: `docs/screenshot.png`
+- GitHub repo linki: https://github.com/yarkintas/task-board
+- Ekran görüntüsü: ![Görev Panosu Ekran Görüntüsü](./docs/screenshot.png)(./docs/concept.png)(./docs/screenshot-mobile.png.png)
