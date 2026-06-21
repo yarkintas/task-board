@@ -58,4 +58,6 @@ src/
 
 - Canlı demo linki: https://taskboard-application.netlify.app/
 - GitHub repo linki: https://github.com/yarkintas/task-board
-- Ekran görüntüsü: ![Görev Panosu Ekran Görüntüsü](./docs/screenshot.png) ![Görev Panosu Ekran Görüntüsü](./docs/concept.png)![Görev Panosu Ekran Görüntüsü](./docs/screenshot-mobile.png.png)
+- Ekran görüntüsü: ![Görev Panosu Ekran Görüntüsü](./docs/screenshot.png)
+  ![Görev Panosu Ekran Görüntüsü](./docs/concept.png)
+  ![Görev Panosu Ekran Görüntüsü](./docs/screenshot-mobile.png.png)
